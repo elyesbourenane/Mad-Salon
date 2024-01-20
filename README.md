@@ -27,3 +27,5 @@ Bienvenue dans le projet du site web du salon de coiffure ! Cette application we
 ## Captures d'écran
 
 ![Accueil](capture1.png)
+![Authentification](capture2.png)
+![Réservation](capture3.png)
